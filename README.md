@@ -31,5 +31,5 @@ The website is is not optomized for mobile devices.
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Roneeey/PigGame)
-- Live Site URL: [GitHub Pages](https://roneeey.github.io/PigGame/)
+- Solution URL: [GitHub](https://github.com/Roneeey/BankistWebsite)
+- Live Site URL: [GitHub Pages](https://roneeey.github.io/BankistWebsite/)
